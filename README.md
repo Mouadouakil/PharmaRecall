@@ -3,9 +3,8 @@
 ### PLATFORM MARKING THE TRACEABILITY OF PRODUCTS
 IN CASE OF PRODUCT RECALL
 
-The main objective of this project is to solve a complex and common supply chain management problem
-problem of supply chain management, namely the recall of products (Case of the products ( Medicines in Moroccan Pharmacies).
-supply chain, namely product recall. The reasons that lead to the recall of a product can be the following: the product is
+The main objective of this project is to solve a complex and common supply chain management problem of supply chain management, namely the recall of products (Case of the products ( Medicines in Moroccan Pharmacies).
+. The reasons that lead to the recall of a product can be the following: the product is
 infected, defective, not up to standard or malfunctioning. This leads us to go back up the supply chain and identify the cause of the
 supply chain and identify the root cause of the order recall. orders. Often, this is accomplished by a complicated query
 involving multi-table joins. And when dealing with large data sets, it is best to find an efficient solution to such problems.
