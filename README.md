@@ -1,8 +1,8 @@
 # PharmaRecall
 
-### PLATFORM MARKING THE TRACEABILITY OF PRODUCTS IN CASE OF PRODUCT RECALL
+## PLATFORM MARKING THE TRACEABILITY OF PRODUCTS IN CASE OF PRODUCT RECALL
 
-## Technologies : Neo4j , NodeJs , NeovisJs
+### Technologies : Neo4j , NodeJs , NeovisJs
 
 
 The main objective of this project is to solve a complex and common supply chain management problem of supply chain management, namely the recall of products (Case of the products ( Medicines in Moroccan Pharmacies).
