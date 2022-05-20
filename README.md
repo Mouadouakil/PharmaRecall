@@ -1,6 +1,6 @@
 # PharmaRecall
 
-PLATFORM MARKING THE TRACEABILITY OF PRODUCTS
+### PLATFORM MARKING THE TRACEABILITY OF PRODUCTS
 IN CASE OF PRODUCT RECALL
 
 The main objective of this project is to solve a complex and common supply chain management problem
