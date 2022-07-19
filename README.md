@@ -57,5 +57,14 @@ nodes. This eliminates the time-consuming query execution due to the This elimin
 
 
 
+```console
+brew install shfmt
+```
+warning The terraform_fmt and terragrunt_fmt hooks requires terraform and terragrunt to be pre-installed, you can run this script:
+
+```console
+./scripts/install_hook_requirements.sh
+```
+
 
 
